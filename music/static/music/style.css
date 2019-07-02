@@ -1,6 +1,5 @@
 body {
     background: white url("images/background.png");
-    padding: 20px;
 }
 
 ul.errorlist {
@@ -27,4 +26,3 @@ ul.errorlist > li {
 .glyphicon-star.active {
     color: #FDB230;
 }
-
